@@ -1,4 +1,4 @@
-# Bottle-check
+# Bottle-checking
 
 * Result:
 <p align = "center">
